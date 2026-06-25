@@ -1,20 +1,27 @@
 # Face Detection Attendance System
 
-## Overview
-A smart attendance management system that uses face recognition to automatically mark attendance.
+## Project Overview
+Face Detection Attendance System is an automated attendance management solution that uses facial recognition technology to identify students and record attendance efficiently.
 
-## Features
+## Key Features
 - Face Detection
 - Face Recognition
-- Attendance Recording
+- Automated Attendance Recording
 - Student Management
+- Attendance Report Generation
 
-## Tech Stack
+## Technology Stack
 - Python
 - OpenCV
 - SQLite
 
-## Future Improvements
+## Skills Demonstrated
+- Computer Vision
+- Database Management
+- Python Development
+- Problem Solving
+
+## Future Enhancements
 - Web Dashboard
-- Real-time Attendance Reports
-- Cloud Database Integration -Face-Detection-Attendance-System
+- Cloud Database Integration
+- Real-time Analytics
